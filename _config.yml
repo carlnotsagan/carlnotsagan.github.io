@@ -17,7 +17,7 @@ title: carlnotsagan
 email: fieldsc9@msu.edu
 description: > # this means to ignore newlines until "baseurl:"
 	Homepage of Graduate Student, Carl E. Fields 
-baseurl: "~/Git_Projects/carlnotsagan.github.io" # the subpath of your site, e.g. /blog
+#baseurl: "~/Git_Projects/carlnotsagan.github.io" # the subpath of your site, e.g. /blog
 url: "https://carlnotsagan.github.io" # the base hostname & protocol for your site
 twitter_username: carlnotsagan
 github_username:  carlnotsagan
