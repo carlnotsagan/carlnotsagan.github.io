@@ -23,4 +23,4 @@ github_username:  carlnotsagan
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
