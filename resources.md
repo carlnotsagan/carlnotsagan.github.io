@@ -15,15 +15,24 @@ My essay for the
 <a href="/fellowships/nsf_grfp/carl_fields_personal_statement_nsf_grfp_2016.pdf">personal statement</a> 
 and 
 <a href="/fellowships/nsf_grfp/carl_fields_research_statement_nsf_grfp_2016.pdf">research statement</a> are available as examples.
-
 <br>
-Additional, I have provided a 
+Most importantly, one can also view the feedback on my essays <a href="/fellowships/nsf_grfp/carl_fields_application_results.pdf">here</a>.
+<br>
+Additionally, I have provided a 
 <a href="/fellowships/nsf_grfp/template_dir.zip">template directory</a> 
 template directory 
 that one may use for formatting their essays.
-
+<br>
+<br>
 <b> The FORD Foundation Predoctoral Fellowship <b>
 <br>
-
-
+Some brief advice.
+<br>
+My essay for the
+<a href="/fellowships/ford_foundation/carl_fields_ford_personal_statement.pdf">personal statement</a>
+and
+<a href="/fellowships/ford_foundation/carl_fields_ford_previous_research.pdf">previous research statement</a> 
+and 
+<a href="/fellowships/ford_foundation/carl_fields_ford_research_statement.pdf">research statement</a>
+are available as examples.
 
