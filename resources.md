@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 <div class="home">
 
-<h1 class="page-heading"><b>Fellowship Applications</b></h1>
+<h1 class="page-heading"><b><u>Fellowship Applications</u></b></h1>
 Here I will offer unsolicited advice on how to prepare a successful graduate school fellowship application in the hopes that this can be used as a tool by those
 in future application cycles. <br><br>
 
@@ -42,3 +42,16 @@ and
 <a href="/fellowships/ford_foundation/carl_fields_ford_research_statement.pdf">research statement</a>
 are available as examples.
 
+
+<h2 class="page-heading"><b><u>Codes</u></b></h2>
+<br>
+<b> ReacSamp </b>
+<br>
+A tool for sampling nuclear reaction rates in MESA.
+<br>
+<br>
+<b> PyStarlib </b>
+<br>
+*A tool for extracting large batches of nuclear reaction rates from the STARLIB Nuclear Reaction Rate Library for use in MESA*
+<br>
+<br>
