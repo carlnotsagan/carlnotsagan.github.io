@@ -9,10 +9,10 @@ permalink: /resources/
 Here I will offer unsolicited advice on how to prepare a successful graduate school fellowship application. I will use my
 two recently successful applications to the NSF Graduate Research Fellowship Program and the FORD Foundation Predoctoral Fellowship as examples.
 I am not claiming that my process or essays are the definitive answer to a successful application. Instead, I hope that they
-can be used as tools for those looking to prepare a strong, competitive application.
+can be used as tools for those looking to prepare a strong, competitive application. 
 <br><br>
 
-<b> The NSF Graduate Research Fellowship </b> <br>
+<a href="https://www.nsfgrfp.org">The NSF Graduate Research Fellowship</a> <br>
 There is great advice for preparing your application at Alex Lang's
 <a href="http://www.alexhunterlang.com/nsf-fellowship">site</a>.
 <br>
