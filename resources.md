@@ -41,10 +41,9 @@ and
 and 
 <a href="/fellowships/ford_foundation/carl_fields_ford_research_statement.pdf">research statement</a>
 are available as examples.
-
-
-<h2 class="page-heading"><b><u>Codes</u></b></h2>
 <br>
+
+<h1 class="page-heading"><b><u>Codes</u></b></h1>
 <b> ReacSamp </b>
 <br>
 A tool for sampling nuclear reaction rates in MESA.
