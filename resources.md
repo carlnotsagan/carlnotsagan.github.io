@@ -53,8 +53,9 @@ are available as examples. Unfortunately, FORD does not provide feedback on the 
 <br>
 <br>
 
-<b> Good Luck! </b>
-
+<h2 align = "center" class="page-heading"><b><u>Good Luck</u></b></h2>
+<br>
+<br>
 <h1 class="page-heading"><b><u>Codes</u></b></h1>
 <a href="https://github.com/carlnotsagan/ReacSamp"><b>ReacSamp</b></a>
 <br>
