@@ -6,13 +6,13 @@ permalink: /resources/
 <div class="home">
 
 <h1 class="page-heading"><b>Fellowship Applications</b></h1>
-Here I will offer unsolicitaed advice on how to prepare a successful graduate school fellowship application in the hopes that this can be used as a tool by those
-in future applicaiton cycles. <br><br>
+Here I will offer unsolicited advice on how to prepare a successful graduate school fellowship application in the hopes that this can be used as a tool by those
+in future application cycles. <br><br>
 
 <b> The NSF Graduate Research Fellowship </b> <br>
 There is great advice for preparing your application at Alex Lang's
 <a href="http://www.alexhunterlang.com/nsf-fellowship">site</a>.
-
+<br>
 <br>
 Examples:<br>
 My essay for the 
