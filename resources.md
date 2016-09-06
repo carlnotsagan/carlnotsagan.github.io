@@ -10,7 +10,9 @@ Here I will offer unsolicitaed advice on how to prepare a successful graduate sc
 in future applicaiton cycles. <br><br>
 
 <b> The NSF Graduate Research Fellowship </b> <br>
-Some brief advice.
+There is great advice for preparing your application at Alex Lang's
+<a href="http://www.alexhunterlang.com/nsf-fellowship">site</a>.
+
 <br>
 <br>
 My essay for the 
