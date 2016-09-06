@@ -14,7 +14,6 @@ There is great advice for preparing your application at Alex Lang's
 <a href="http://www.alexhunterlang.com/nsf-fellowship">site</a>.
 
 <br>
-<br>
 Examples:<br>
 My essay for the 
 <a href="/fellowships/nsf_grfp/carl_fields_personal_statement_nsf_grfp_2016.pdf">personal statement</a> 
@@ -22,6 +21,7 @@ and
 <a href="/fellowships/nsf_grfp/carl_fields_research_statement_nsf_grfp_2016.pdf">research statement</a> are available as examples.
 One can also view the feedback on my essays <a href="/fellowships/nsf_grfp/carl_fields_application_results.pdf">here</a>.
 <br><br>
+Example Directory:<br>
 Additionally, I have provided a 
 <a href="/fellowships/nsf_grfp/template_dir.zip">template directory</a> 
 template directory 
