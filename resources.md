@@ -12,16 +12,6 @@ I am not claiming that my process or essays are the definitive answer to a succe
 can be used as tools for those looking to prepare a strong, competitive application. 
 <br><br>
 
-Possibly relevant information pertaining to both of my applications: <br>
-<u>at time of application</u><br>
-GPA:3.37/3.0 <br>
-1 paper in ApJ + 2 in prep. <br> 
-a few talks/presentations <br>
-1 yr of teaching exp. <br>
-~2 yr of outreach.
-<br>
-<br>
-
 <a href="https://www.nsfgrfp.org">The NSF Graduate Research Fellowship</a> <br>
 There is great advice for preparing your application at Alex Lang's
 <a href="http://www.alexhunterlang.com/nsf-fellowship">site</a>.
