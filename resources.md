@@ -10,7 +10,9 @@ Here I will offer unsolicitaed advice on how to prepare a successful graduate sc
 in future applicaiton cycles. <br><br>
 
 <b> The NSF Graduate Research Fellowship </b> <br>
-
+Some brief advice.
+<br>
+<br>
 My essay for the 
 <a href="/fellowships/nsf_grfp/carl_fields_personal_statement_nsf_grfp_2016.pdf">personal statement</a> 
 and 
@@ -24,10 +26,11 @@ template directory
 that one may use for formatting their essays.
 <br>
 <br>
-<br>
+
 <b> The FORD Foundation Predoctoral Fellowship </b>
 <br>
 Some brief advice.
+<br>
 <br>
 My essay for the
 <a href="/fellowships/ford_foundation/carl_fields_ford_personal_statement.pdf">personal statement</a>
