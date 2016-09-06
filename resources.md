@@ -6,8 +6,11 @@ permalink: /resources/
 <div class="home">
 
 <h1 class="page-heading"><b><u>Fellowship Applications</u></b></h1>
-Here I will offer unsolicited advice on how to prepare a successful graduate school fellowship application in the hopes that this can be used as a tool by those
-in future application cycles. <br><br>
+Here I will offer unsolicited advice on how to prepare a successful graduate school fellowship application. I will use my
+two recently successful applications to the NSF GRFP Fellowship and the FORD Foundation Predoctoral Fellowship as examples.
+I am not claiming that my process or essays are the definitive answer to a successful application. Instead, I hope that they
+can be used as tools for those looking to prepare a strong, competitive application.
+<br><br>
 
 <b> The NSF Graduate Research Fellowship </b> <br>
 There is great advice for preparing your application at Alex Lang's
@@ -15,7 +18,7 @@ There is great advice for preparing your application at Alex Lang's
 <br>
 <br>
 Examples:<br>
-My essay for the 
+I applied in November 2015 and was awarded the fellowship in March. My essay for the 
 <a href="/fellowships/nsf_grfp/carl_fields_personal_statement_nsf_grfp_2016.pdf">personal statement</a> 
 and 
 <a href="/fellowships/nsf_grfp/carl_fields_research_statement_nsf_grfp_2016.pdf">research statement</a> are available as examples.
@@ -46,9 +49,11 @@ and
 <a href="/fellowships/ford_foundation/carl_fields_ford_previous_research.pdf">previous research statement</a> 
 and 
 <a href="/fellowships/ford_foundation/carl_fields_ford_research_statement.pdf">research statement</a>
-are available as examples.
+are available as examples. Unfortunately, FORD does not provide feedback on the essays.
 <br>
 <br>
+
+<b> Good Luck! </b>
 
 <h1 class="page-heading"><b><u>Codes</u></b></h1>
 <a href="https://github.com/carlnotsagan/ReacSamp"><b>ReacSamp</b></a>
