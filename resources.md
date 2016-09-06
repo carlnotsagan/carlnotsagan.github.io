@@ -26,7 +26,7 @@ be a combined effort between my explanation in my essays and my recommenders con
 my abilities. If you feel that there is a particularly weak part of your application, help the
 reviewer understand the cause or reasoning. This, coupled with your recommenders
 remarks speaking to your current capabilities and potential can be enough to make your application
-successful.
+successful. <b>You dont have to have a 4.0 GPA to win!</b>
 <br><br>
 
 
