@@ -22,10 +22,8 @@ Additional, I have provided a
 template directory 
 that one may use for formatting their essays.
 
-<b> The FORD Foundation Pre-Doctoral Fellowship <b>
+<b> The FORD Foundation Predoctoral Fellowship <b>
 <br>
 
-[apply here!](http://sites.nationalacademies.org/PGA/FordFellowships/PGA_171962)
-<br>
 
 
