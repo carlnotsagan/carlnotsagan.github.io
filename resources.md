@@ -11,6 +11,25 @@ two recently successful applications to the NSF Graduate Research Fellowship Pro
 I am not claiming that my process or essays are the definitive answer to a successful application. Instead, I hope that they
 can be used as tools for those looking to prepare a strong, competitive application. 
 <br><br>
+Some possibly relevant information about my applications: <br>
+<u>at time of application</u><br>
+GPA 3.37/4.0 <br>
+1 second author paper in ApJ + 2 in prep.<br>
+1 yr of TA exp. <br>
+1 REU <br>
+~ 2 yrs of research exp. <br>
+~ 2 yrs of 'outreach' volunteer teaching/instruction <br><br>
+I would argue that the weakest component of my application was my GPA. For me, this was due to
+poor preparation and also personal adversities. However, in my application, I made sure
+to speak to my progress and my current capabilities. I also acknowledge that this had to
+be a combined effort between my explanation in my essays and my recommenders confidence in
+my abilities. If you feel that there is a particularly weak part of your application, help the
+reviewer understand the cause or reasoning. This, coupled with your recommenders
+remarks speaking to your current capabilities and potential can be enough to make your application
+successful.
+<br><br>
+
+
 
 <a href="https://www.nsfgrfp.org">The NSF Graduate Research Fellowship</a> <br>
 There is great advice for preparing your application at Alex Lang's
