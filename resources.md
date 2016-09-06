@@ -32,7 +32,7 @@ that one may use for formatting their essays. This template complies with the fo
 <br>
 <br>
 
-<b> The FORD Foundation Predoctoral Fellowship </b>
+<a href="http://sites.nationalacademies.org/PGA/FordFellowships/PGA_171962">The FORD Foundation Predoctoral Fellowship</a>
 <br>
 From the award offer letter: '<i>Your selection for this prestigious award reflects our review panelists' judgment of your scholarly competence as well as the promise that you show for 
 future achievement as a scholar, researcher, and teacher in an institution of higher education.</i>'<br><br>
@@ -53,7 +53,7 @@ are available as examples. Unfortunately, FORD does not provide feedback on the 
 <br>
 <br>
 
-<h2 align = "center" class="page-heading"><b><u>Good Luck</u></b></h2>
+<h2 align = "center" class="page-heading"><b>Good Luck!!</b></h2>
 <br>
 <br>
 <h1 class="page-heading"><b><u>Codes</u></b></h1>
