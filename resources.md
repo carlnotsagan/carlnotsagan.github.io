@@ -28,7 +28,7 @@ Example Directory:<br>
 Additionally, I have provided a 
 <a href="/fellowships/nsf_grfp/template_dir.zip">template directory</a> 
 template directory 
-that one may use for formatting their essays.
+that one may use for formatting their essays. This template complies with the formatting requirements.
 <br>
 <br>
 
