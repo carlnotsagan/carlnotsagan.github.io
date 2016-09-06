@@ -19,8 +19,7 @@ My essay for the
 <a href="/fellowships/nsf_grfp/carl_fields_personal_statement_nsf_grfp_2016.pdf">personal statement</a> 
 and 
 <a href="/fellowships/nsf_grfp/carl_fields_research_statement_nsf_grfp_2016.pdf">research statement</a> are available as examples.
-<br><br>
-Most importantly, one can also view the feedback on my essays <a href="/fellowships/nsf_grfp/carl_fields_application_results.pdf">here</a>.
+One can also view the feedback on my essays <a href="/fellowships/nsf_grfp/carl_fields_application_results.pdf">here</a>.
 <br><br>
 Additionally, I have provided a 
 <a href="/fellowships/nsf_grfp/template_dir.zip">template directory</a> 
