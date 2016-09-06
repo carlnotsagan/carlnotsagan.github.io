@@ -33,7 +33,8 @@ that one may use for formatting their essays.
 <br>
 From the award offer letter: '<i>Your selection for this prestigious award reflects our review panelists' judgment of your scholarly competence as well as the promise that you show for 
 future achievement as a scholar, researcher, and teacher in an institution of higher education.</i>'<br><br>
-This sentence captures where the difference between the FORD Foundation Predoctoral Fellowship and the NSF GRFP. FORD places an emphasis on your future ability as an educator. 
+This sentence captures where the difference between the FORD Foundation Predoctoral Fellowship and the NSF Graduate Research Fellowship occurs. 
+<b>FORD places an emphasis on your future ability as an educator.</b> 
 This translates into specific skills that, if you can demonstrate in your application, will make you stand out. In general, my advice would be to follow closely the prompt
 they provide and be sure to address as many of the bullets in your essays. It is most likely that your institutions has something unique about it that plays to that effect.
 For example, experiences as a volunteer or teaching during your undergraduate career or any classes of any pedagogical nature would be strong points to mention.
