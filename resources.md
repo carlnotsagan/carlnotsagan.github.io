@@ -9,7 +9,7 @@ permalink: /resources/
 Here I will offer unsolicitaed advice on how to prepare a successful graduate school fellowship application in the hopes that this can be used as a tool by those
 in future applicaiton cycles. <br>
 
-<b> The NSF Graduate Research Fellowship <b> <\br>
+<b> The NSF Graduate Research Fellowship </b> <br>
 
 My essay for the 
 <href="/fellowships/nsf_grfp/carl_fields_personal_statement_nsf_grfp_2016.pdf">personal statement</a> 
@@ -22,6 +22,6 @@ Additional, I have provided a
 template directory 
 that one may use for formatting their essays.
 
-<b> [The FORD Foundation Pre-Doctoral Fellowship](http://sites.nationalacademies.org/PGA/FordFellowships/PGA_171962) <b> <\br>
+<b> [The FORD Foundation Pre-Doctoral Fellowship](http://sites.nationalacademies.org/PGA/FordFellowships/PGA_171962) <b> <br>
 
 
