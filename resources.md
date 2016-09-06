@@ -3,13 +3,25 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
+<div class="home">
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<h1 class="page-heading">Fellowship Applications</h1>
+Here I will offer unsolicitaed advice on how to prepare a successful graduate school fellowship application in the hopes that this can be used as a tool by those
+in future applicaiton cycles. <br>
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+<b> The NSF Graduate Research Fellowship <b> <\br>
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+My essay for the 
+<href="/fellowships/nsf_grfp/carl_fields_personal_statement_nsf_grfp_2016.pdf">personal statement</a> 
+and 
+<href="/fellowships/nsf_grfp/carl_fields_research_statement_nsf_grfp_2016.pdf">research statement</a> are available as examples.
+
+<br>
+Additional, I have provided a 
+<href="/fellowships/nsf_grfp/template_dir.zip">template directory</a> 
+template directory 
+that one may use for formatting their essays.
+
+<b> [The FORD Foundation Pre-Doctoral Fellowship](http://sites.nationalacademies.org/PGA/FordFellowships/PGA_171962) <b> <\br>
+
+
