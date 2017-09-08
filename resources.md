@@ -72,17 +72,6 @@ are available as examples. Unfortunately, FORD does not provide feedback on the 
 <br>
 <br>
 
-<h2 align = "center" class="page-heading"><b>Good Luck!!</b></h2>
-<br>
-<br>
-<h1 class="page-heading"><b><u>Codes</u></b></h1>
-<a href="https://github.com/carlnotsagan/ReacSamp"><b>ReacSamp</b></a>
-<br>
-A tool for sampling nuclear reaction rates in MESA.
-<br>
-<br>
-<a href="https://github.com/carlnotsagan/PySTARLIB"><b>PySTARLIB</b></a>
-<br>
-A tool for extracting large batches of nuclear reaction rates from the STARLIB Nuclear Reaction Rate Library for use in MESA.
+<h2 align = "center" class="page-heading"><b>Good Luck!</b></h2>
 <br>
 <br>
