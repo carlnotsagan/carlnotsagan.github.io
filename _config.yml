@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: carlnotsagan
+title: Carl E. Fields
 email: fieldsc9@msu.edu
 description: "Hompage of Graduate Student, Carl E. Fields"
 url: "https://carlnotsagan.github.io" # the base hostname & protocol for your site
