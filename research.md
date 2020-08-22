@@ -11,7 +11,7 @@ I work primarily on computational nuclear astrophysics. My research interests in
 
 <h1 class="page-heading"><b><u>Massive Stars</u></b></h1>
 
-<img src="/images/3d32kmpertvolmagvel_0846.png" "img-fluid" alt="Responsive image" style="float:left;width:45%;height:45%;padding:1%" >
+<img src="../images/3d32kmpertvolmagvel_0846.png" "img-fluid" alt="Responsive image" style="float:left;width:45%;height:45%;padding:1%" >
 <p>
 
 <i>3D volume rendering of a massive star moments before iron core-collapse.</i>
